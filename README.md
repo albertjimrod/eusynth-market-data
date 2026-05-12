@@ -1,0 +1,95 @@
+# European Synthesizer Market Observatory — Open Dataset
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+Aggregate price statistics for second-hand synthesizers collected from European online marketplaces. Published by the [European Synthesizer Market Observatory](https://intellisynthprices.com) — an independent, non-commercial open data project.
+
+> **No seller data is included.** Usernames, names, and contact details are never collected or stored. See our [privacy policy](https://intellisynthprices.com/about/legal/privacy) and [scraping policy](https://intellisynthprices.com/about/bot).
+
+---
+
+## Files
+
+### `data/fair_prices.csv`
+Fair Market Price estimates for 122 synthesizer models with sufficient market activity.
+
+| Column | Description |
+|---|---|
+| `manufacturer` | Brand (e.g. Korg, Roland, Moog) |
+| `model` | Model name (e.g. Minilogue XD) |
+| `canonical_name` | Full canonical name (e.g. Korg Minilogue XD) |
+| `price_p25_eur` | 25th percentile — lower end of market range |
+| `price_p50_eur` | Median — most typical asking price |
+| `price_p75_eur` | 75th percentile — upper end of market range |
+| `sample_size` | Number of listings used in the calculation |
+| `window_days` | Rolling window (90 days) |
+| `sources` | Marketplaces included in this estimate |
+| `computed_date` | Date the estimate was last calculated |
+
+### `data/products.csv`
+Canonical product catalogue of 3,037 synthesizer models tracked by the Observatory.
+
+| Column | Description |
+|---|---|
+| `manufacturer` | Brand |
+| `model` | Model name |
+| `canonical_name` | Full canonical name |
+| `total_listings` | Total listings observed across all sources (excl. eBay) |
+| `listings_with_price` | Listings with a valid EUR price |
+| `first_seen` | Date of first listing observed |
+| `last_seen` | Date of most recent listing observed |
+| `has_fmp` | 1 if a Fair Market Price is available for this model |
+
+### `data/monthly_market_stats.csv`
+Monthly aggregate activity by marketplace source.
+
+| Column | Description |
+|---|---|
+| `month` | Year-month (YYYY-MM) |
+| `source` | Marketplace name |
+| `source_country` | Primary country of the marketplace |
+| `listings_scraped` | Total listings collected that month |
+| `listings_with_price` | Listings with a valid EUR price |
+| `avg_price_eur` | Average asking price |
+| `min_price_eur` | Minimum asking price |
+| `max_price_eur` | Maximum asking price |
+| `distinct_products` | Number of distinct canonical products observed |
+
+---
+
+## How to cite
+
+```
+European Synthesizer Market Observatory. (2026). European Synthesizer Market
+Observatory — Open Dataset [Data set].
+https://github.com/albertjimrod/eusynth-market-data
+License: CC BY 4.0
+```
+
+Or use the `CITATION.cff` file included in this repository.
+
+---
+
+## Methodology
+
+Data is collected approximately every hour from four public second-hand marketplaces: **Hispasonic** (ES), **Soundsmarket** (ES), **Audiofanzine** (EU), and **Noiz** (GR). Each listing undergoes a 72-hour embargo before being processed. Listing titles are matched to canonical product names using an ML classifier. Fair Market Prices are calculated as percentile statistics over a 90-day rolling window (minimum 5 samples, outliers excluded).
+
+Full methodology: [intellisynthprices.com/about/methodology](https://intellisynthprices.com/about/methodology)
+
+---
+
+## Licence
+
+All data in this repository is released under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to use, share, and adapt this data for any purpose (including commercially) provided you give appropriate credit to the European Synthesizer Market Observatory.
+
+Individual listing content (titles, prices, URLs) sourced from third-party marketplaces remains subject to those marketplaces' own terms and is **not included** in this dataset.
+
+---
+
+## Updates
+
+This dataset is updated periodically. Watch this repository to be notified of new releases.
+
+For questions, corrections, or takedown requests: [contact@intellisynthprices.com](mailto:contact@intellisynthprices.com)

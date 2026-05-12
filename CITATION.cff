@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "European Synthesizer Market Observatory — Open Dataset"
+authors:
+  - name: "European Synthesizer Market Observatory"
+    website: "https://intellisynthprices.com"
+version: "2026-05"
+date-released: "2026-05-12"
+url: "https://github.com/albertjimrod/eusynth-market-data"
+license: CC-BY-4.0
+abstract: >
+  Aggregate price statistics for second-hand synthesizers collected from
+  European online marketplaces (Hispasonic, Soundsmarket, Audiofanzine, Noiz).
+  Includes fair market price estimates (P25/P50/P75) for 122 models and a
+  canonical product catalogue of 3,037 synthesizer models.
+keywords:
+  - synthesizers
+  - second-hand market
+  - price data
+  - open data
+  - music instruments
+  - Europe
