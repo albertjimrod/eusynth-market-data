@@ -83,7 +83,13 @@ Full methodology: [intellisynthprices.com/about/methodology](https://intellisynt
 ## 📊 Data Ownership & Usage Policy
 
 ### 🔹 Raw Listing Data
-All individual listing content — including titles, descriptions, prices, images, URLs, seller information, and marketplace metadata — is sourced from third-party marketplaces across Europe (e.g., Noiz, Hispasonic, Audiofanzine, Soundsmarket, etc.).
+All individual listing content — including titles, descriptions, prices, images, URLs, seller information, and marketplace metadata — is sourced from the following third-party marketplaces across Europe:
+
+- **Hispasonic** (hispasonic.com)
+- **Noiz** (noiz.es)
+- **Audiofanzine** (audiofanzine.com)
+- **Soundsmarket** (soundsmarket.com)
+
 
 **This data remains the exclusive property of its original sources.** IntelliSynthPrices.com acts solely as an aggregator and visualization layer: we index, normalize, and display publicly available information to help users discover fair deals. We do not claim ownership, copyright, or exclusive rights over this raw content.
 
@@ -100,8 +106,15 @@ Any **original analysis, statistical models, or derived insights** produced by I
 ### 🔹 Commercial Use of Aggregated Data
 If you intend to use **any data displayed or aggregated by IntelliSynthPrices** for commercial, economic, or business purposes (including but not limited to: resale, API services, competitive intelligence, or product integration), you must:
 
-1. **Notify and seek permission from the original marketplace(s)** that own the underlying listing data
+1. **Notify and seek permission from the original marketplace(s)** that own the underlying listing data:
+   - Hispasonic → contact via [hispasonic.com/contact]
+   - Noiz → contact via [noiz.es/contacto]
+   - Audiofanzine → contact via [audiofanzine.com/contact]
+   - Soundsmarket → contact via [soundsmarket.com/contact]
+
+
 2. **Credit IntelliSynthPrices** for any derived analytics or value-added insights used
+
 3. **Comply with the terms of service** of each source marketplace
 
 > ℹ️ IntelliSynthPrices does not broker data licensing agreements. It is your responsibility to contact original sources directly for usage rights.
@@ -109,15 +122,21 @@ If you intend to use **any data displayed or aggregated by IntelliSynthPrices** 
 ### 🔹 Fair Use & Non-Commercial Research
 Academic researchers, journalists, and non-commercial projects may use aggregated statistics or anonymized trends from this platform under fair use principles, provided:
 - No personal or seller-identifiable information is republished
-- Source marketplaces are acknowledged
+- Source marketplaces are explicitly acknowledged (e.g., *"Data sourced from Hispasonic, Noiz, Audiofanzine via IntelliSynthPrices"*)
 - IntelliSynthPrices is credited for derived methodology
+
+### 🔹 Attribution Examples
+✅ Correct attribution for derived analytics:
+> *"Price insights powered by IntelliSynthPrices (European Synthesizer Market Observatory). Raw listings sourced from Hispasonic, Noiz, and Audiofanzine."*
+
+✅ Correct attribution for non-commercial research:
+> *"Market analysis based on aggregated data from IntelliSynthPrices.com, indexing public listings from Hispasonic, Noiz, Soundsmarket, Audiofanzine, Thomann B-Stock, and eBay Kleinanzeigen."*
 
 ### 🔹 Contact & Clarification
 Unsure about your use case? Reach out before proceeding:
 📧 infol@intellisynthprices.com]  
 🌐 https://intellisynthprices.com/contact
 
-*Last updated: [Fecha]*
 
 ---
 
