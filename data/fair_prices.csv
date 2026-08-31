@@ -1,70 +1,66 @@
 manufacturer,model,canonical_name,price_p25_eur,price_p50_eur,price_p75_eur,sample_size,window_days,sources,computed_date
-ASM,Hydrasynth Desktop,ASM Hydrasynth Desktop,594.25,629.5,664.75,2,90,"[1, 7]",2026-08-24
-Ableton,Move,Ableton Move,405.0,410.0,415.0,2,90,"[1, 7]",2026-08-24
-Access Virus,Virus TI,Access Virus Virus TI,1450.0,1450.0,1450.0,2,90,"[1, 6]",2026-08-24
-Access Virus,Virus TI2 Desktop,Access Virus Virus TI2 Desktop,1112.5,1175.0,1237.5,2,90,[1],2026-08-24
-Akai,MPC Live II,Akai MPC Live II,680.0,720.0,760.0,2,90,[7],2026-08-24
-Akai,MPC ONE,Akai MPC ONE,500.0,500.0,500.0,3,90,[7],2026-08-24
-Arturia,BeatStep Pro,Arturia BeatStep Pro,136.25,147.5,158.75,2,90,"[1, 7]",2026-08-24
-Arturia,Keylab 61,Arturia Keylab 61,287.5,315.0,342.5,2,90,"[6, 7]",2026-08-24
-Arturia,MatrixBrute Noir,Arturia MatrixBrute Noir,972.25,1044.5,1116.75,2,90,[1],2026-08-24
-Arturia,MicroFreak,Arturia MicroFreak,202.5,220.0,222.5,11,90,"[1, 7]",2026-08-24
-Arturia,MiniLab,Arturia MiniLab,52.5,55.0,57.5,2,90,[7],2026-08-24
-Arturia,POLYBRUTE,Arturia POLYBRUTE,1495.0,1600.0,1650.0,3,90,"[1, 7]",2026-08-24
-Befaco,Sampling Modulator,Befaco Sampling Modulator,139.25,139.5,139.75,2,90,[1],2026-08-24
-Behringer,DeepMind 12,Behringer DeepMind 12,262.5,325.0,362.5,3,90,"[1, 7]",2026-08-24
-Behringer,Model 15,Behringer Model 15,162.5,175.0,187.5,2,90,[1],2026-08-24
-Behringer,UB XA,Behringer UB XA,662.5,675.0,687.5,2,90,[1],2026-08-24
-Dreadbox,Typhon,Dreadbox Typhon,215.0,240.0,251.25,4,90,[1],2026-08-24
-Elektron,Analog Four,Elektron Analog Four,625.0,700.0,725.0,3,90,"[1, 7]",2026-08-24
-Elektron,Digitakt 2,Elektron Digitakt 2,725.0,730.0,735.0,2,90,[1],2026-08-24
-Elektron,Digitone II,Elektron Digitone II,724.5,750.0,805.0,3,90,"[1, 7]",2026-08-24
-Elektron,Octatrack MK1,Elektron Octatrack MK1,700.0,700.0,700.0,2,90,[1],2026-08-24
-Elektron,Octatrack MK2,Elektron Octatrack MK2,993.75,1025.0,1062.5,4,90,"[1, 7]",2026-08-24
-Elektron,Octatrack MKII,Elektron Octatrack MKII,925.0,950.0,975.0,2,90,[7],2026-08-24
-Elektron,Syntakt,Elektron Syntakt,712.5,725.0,737.5,2,90,"[1, 7]",2026-08-24
-Korg,Korg Wavestate,Korg Korg Wavestate,312.5,325.0,337.5,3,90,[1],2026-08-24
-Korg,MODWAVE,Korg MODWAVE,332.5,335.0,337.5,2,90,[1],2026-08-24
-Korg,MS2000,Korg MS2000,322.5,345.0,367.5,2,90,"[1, 7]",2026-08-24
-Korg,Minilogue,Korg Minilogue,308.75,317.5,326.25,2,90,"[1, 7]",2026-08-24
-Korg,Minilogue XD,Korg Minilogue XD,327.5,335.0,342.5,2,90,"[1, 7]",2026-08-24
-Korg,Nautilus 61 AT,Korg Nautilus 61 AT,1600.0,1600.0,1600.0,2,90,[7],2026-08-24
-Korg,PROLOGUE 16,Korg PROLOGUE 16,1443.75,1562.5,1681.25,2,90,[1],2026-08-24
-Korg,Pa600 QT,Korg Pa600 QT,475.0,500.0,525.0,2,90,[7],2026-08-24
-Korg,RADIAS,Korg RADIAS,597.5,695.0,722.5,3,90,[1],2026-08-24
-Korg,VOLCA DRUM,Korg VOLCA DRUM,76.25,77.5,78.75,2,90,"[1, 7]",2026-08-24
-Korg,VOLCA KEYS,Korg VOLCA KEYS,112.75,115.5,118.25,2,90,[7],2026-08-24
-Korg,Volca Bass,Korg Volca Bass,77.5,80.0,96.0,3,90,"[1, 7]",2026-08-24
-Korg,Volca FM2,Korg Volca FM2,116.25,117.5,118.75,2,90,"[1, 7]",2026-08-24
-Korg,Volca Modular,Korg Volca Modular,101.0,107.0,113.0,2,90,"[1, 7]",2026-08-24
-Korg,Volca Sample New Generation,Korg Volca Sample New Generation,80.0,80.0,90.0,3,90,[7],2026-08-24
-Kurzweil,K2700,Kurzweil K2700,1405.0,1420.0,1435.0,2,90,[1],2026-08-24
-M-Audio,Keystation 88,M-Audio Keystation 88,88.75,92.5,96.25,2,90,"[1, 7]",2026-08-24
-Moog,DFAM,Moog DFAM,462.5,475.0,487.5,2,90,"[1, 7]",2026-08-24
-Moog,Minitaur,Moog Minitaur,422.5,425.0,427.5,2,90,"[1, 7]",2026-08-24
-Moog,Subsequent 37,Moog Subsequent 37,1152.0,1200.0,1225.0,3,90,"[4, 7]",2026-08-24
-Native Instruments,Komplete Kontrol A49,Native Instruments Komplete Kontrol A49,123.75,127.5,131.25,2,90,[7],2026-08-24
-Noise Engineering,Basimilus Iteritas Alter,Noise Engineering Basimilus Iteritas Alter,245.0,250.0,255.0,2,90,[1],2026-08-24
-Novation,Bass Station II,Novation Bass Station II,295.25,300.5,305.75,2,90,[1],2026-08-24
-Novation,Circuit Rhythm,Novation Circuit Rhythm,200.0,200.0,200.0,2,90,"[1, 7]",2026-08-24
-Novation,Circuit Tracks,Novation Circuit Tracks,195.0,220.0,235.0,3,90,[7],2026-08-24
-Novation,Launchkey 49,Novation Launchkey 49,170.0,180.0,190.0,2,90,"[1, 7]",2026-08-24
-Novation,MiniNova,Novation MiniNova,267.5,285.0,302.5,2,90,"[1, 7]",2026-08-24
-Oberheim,OB-12,Oberheim OB-12,1240.0,1380.0,1440.0,3,90,"[1, 7]",2026-08-24
-Roland,FANTOM 06,Roland FANTOM 06,825.0,850.0,875.0,2,90,"[6, 7]",2026-08-24
-Roland,Jupiter Xm,Roland Jupiter Xm,985.0,990.0,995.0,2,90,"[1, 7]",2026-08-24
-Roland,MC-101,Roland MC-101,326.25,327.5,328.75,2,90,"[1, 7]",2026-08-24
-Roland,P-6,Roland P-6,115.0,130.0,140.0,3,90,"[1, 7]",2026-08-24
-Roland,SH-101,Roland SH-101,1531.25,1587.5,1643.75,2,90,"[1, 7]",2026-08-24
-Roland,SP-404MKII,Roland SP-404MKII,356.25,367.5,378.75,2,90,[1],2026-08-24
-Roland,SP404,Roland SP404,415.0,430.0,445.0,2,90,"[1, 7]",2026-08-24
-Roland,TR-6S,Roland TR-6S,272.5,275.0,277.5,2,90,[7],2026-08-24
-Roland,TR-8S,Roland TR-8S,500.0,500.0,500.0,2,90,[1],2026-08-24
-Roland,roland sp-404,Roland roland sp-404,287.5,325.0,362.5,2,90,"[1, 7]",2026-08-24
-Sequential,Prophet Rev2,Sequential Prophet Rev2,1699.25,1799.5,1899.75,2,90,[1],2026-08-24
-Sequential,Take 5,Sequential Take 5,962.5,975.0,1025.0,3,90,"[1, 7]",2026-08-24
-Waldorf,Blofeld Desktop,Waldorf Blofeld Desktop,282.5,285.0,287.5,2,90,"[1, 6]",2026-08-24
-Waldorf,Iridium,Waldorf Iridium,1500.0,1500.0,1500.0,3,90,[1],2026-08-24
-Yamaha,Reface CP,Yamaha Reface CP,265.0,280.0,295.0,2,90,"[1, 7]",2026-08-24
-Yamaha,SEQTRAK,Yamaha SEQTRAK,226.25,227.5,228.75,2,90,"[1, 7]",2026-08-24
-Yamaha,Yamaha MODX M6,Yamaha Yamaha MODX M6,1062.5,1075.0,1087.5,2,90,[1],2026-08-24
+ASM,Hydrasynth Desktop,ASM Hydrasynth Desktop,594.25,629.5,664.75,2,90,"[1, 7]",2026-08-31
+Ableton,Move,Ableton Move,405.0,410.0,415.0,2,90,"[1, 7]",2026-08-31
+Access Virus,Virus TI,Access Virus Virus TI,1450.0,1450.0,1450.0,2,90,"[1, 6]",2026-08-31
+Access Virus,Virus TI2 Desktop,Access Virus Virus TI2 Desktop,1112.5,1175.0,1237.5,2,90,[1],2026-08-31
+Akai,MPC Live II,Akai MPC Live II,680.0,720.0,760.0,2,90,[7],2026-08-31
+Akai,MPC ONE,Akai MPC ONE,500.0,500.0,500.0,3,90,[7],2026-08-31
+Arturia,Keylab 61,Arturia Keylab 61,287.5,315.0,342.5,2,90,"[6, 7]",2026-08-31
+Arturia,MatrixBrute Noir,Arturia MatrixBrute Noir,972.25,1044.5,1116.75,2,90,[1],2026-08-31
+Arturia,MicroFreak,Arturia MicroFreak,190.0,219.5,221.25,12,90,"[1, 7]",2026-08-31
+Arturia,POLYBRUTE,Arturia POLYBRUTE,1495.0,1600.0,1650.0,3,90,"[1, 7]",2026-08-31
+Befaco,Sampling Modulator,Befaco Sampling Modulator,139.25,139.5,139.75,2,90,[1],2026-08-31
+Behringer,DeepMind 12,Behringer DeepMind 12,343.75,362.5,381.25,2,90,[1],2026-08-31
+Behringer,Model 15,Behringer Model 15,162.5,175.0,187.5,2,90,[1],2026-08-31
+Behringer,UB XA,Behringer UB XA,662.5,675.0,687.5,2,90,[1],2026-08-31
+Dreadbox,Typhon,Dreadbox Typhon,245.0,252.5,261.25,4,90,[1],2026-08-31
+Elektron,Analog Four,Elektron Analog Four,625.0,700.0,725.0,3,90,"[1, 7]",2026-08-31
+Elektron,Digitakt 2,Elektron Digitakt 2,725.0,730.0,735.0,2,90,[1],2026-08-31
+Elektron,Digitone II,Elektron Digitone II,724.5,750.0,805.0,3,90,"[1, 7]",2026-08-31
+Elektron,Octatrack MK1,Elektron Octatrack MK1,692.5,695.0,697.5,2,90,[1],2026-08-31
+Elektron,Octatrack MK2,Elektron Octatrack MK2,975.0,1012.5,1062.5,4,90,"[1, 7]",2026-08-31
+Elektron,Syntakt,Elektron Syntakt,712.5,725.0,737.5,2,90,"[1, 7]",2026-08-31
+Korg,Korg Wavestate,Korg Korg Wavestate,306.25,312.5,318.75,2,90,[1],2026-08-31
+Korg,MODWAVE,Korg MODWAVE,332.5,335.0,337.5,2,90,[1],2026-08-31
+Korg,MS2000,Korg MS2000,322.5,345.0,367.5,2,90,"[1, 7]",2026-08-31
+Korg,Minilogue XD,Korg Minilogue XD,327.5,335.0,342.5,2,90,"[1, 7]",2026-08-31
+Korg,Nautilus 61 AT,Korg Nautilus 61 AT,1600.0,1600.0,1600.0,2,90,[7],2026-08-31
+Korg,PROLOGUE 16,Korg PROLOGUE 16,1443.75,1562.5,1681.25,2,90,[1],2026-08-31
+Korg,Pa600 QT,Korg Pa600 QT,475.0,500.0,525.0,2,90,[7],2026-08-31
+Korg,RADIAS,Korg RADIAS,597.5,695.0,722.5,3,90,[1],2026-08-31
+Korg,VOLCA DRUM,Korg VOLCA DRUM,76.25,77.5,78.75,2,90,"[1, 7]",2026-08-31
+Korg,VOLCA KEYS,Korg VOLCA KEYS,112.75,115.5,118.25,2,90,[7],2026-08-31
+Korg,Volca Bass,Korg Volca Bass,77.5,80.0,96.0,3,90,"[1, 7]",2026-08-31
+Korg,Volca FM2,Korg Volca FM2,116.25,117.5,118.75,2,90,"[1, 7]",2026-08-31
+Korg,Volca Modular,Korg Volca Modular,101.0,107.0,113.0,2,90,"[1, 7]",2026-08-31
+Korg,Volca Sample New Generation,Korg Volca Sample New Generation,85.0,90.0,95.0,2,90,[7],2026-08-31
+Kurzweil,K2700,Kurzweil K2700,1405.0,1420.0,1435.0,2,90,[1],2026-08-31
+Modal Electronics,Argon 8M,Modal Electronics Argon 8M,362.5,375.0,387.5,2,90,[1],2026-08-31
+Moog,DFAM,Moog DFAM,462.5,475.0,487.5,2,90,"[1, 7]",2026-08-31
+Moog,Minitaur,Moog Minitaur,422.5,425.0,427.5,2,90,"[1, 7]",2026-08-31
+Moog,Subsequent 37,Moog Subsequent 37,1152.0,1200.0,1225.0,3,90,"[4, 7]",2026-08-31
+Native Instruments,Komplete Kontrol A49,Native Instruments Komplete Kontrol A49,123.75,127.5,131.25,2,90,[7],2026-08-31
+Noise Engineering,Basimilus Iteritas Alter,Noise Engineering Basimilus Iteritas Alter,245.0,250.0,255.0,2,90,[1],2026-08-31
+Novation,Bass Station II,Novation Bass Station II,295.25,300.5,305.75,2,90,[1],2026-08-31
+Novation,Circuit Rhythm,Novation Circuit Rhythm,200.0,200.0,200.0,2,90,"[1, 7]",2026-08-31
+Novation,Circuit Tracks,Novation Circuit Tracks,190.0,210.0,230.0,2,90,[7],2026-08-31
+Novation,Launchkey 49,Novation Launchkey 49,170.0,180.0,190.0,2,90,"[1, 7]",2026-08-31
+Novation,MiniNova,Novation MiniNova,267.5,285.0,302.5,2,90,"[1, 7]",2026-08-31
+Oberheim,OB-12,Oberheim OB-12,1240.0,1380.0,1440.0,3,90,"[1, 7]",2026-08-31
+Roland,AIRA TR-8,Roland AIRA TR-8,322.5,325.0,327.5,2,90,"[1, 7]",2026-08-31
+Roland,Boutique JX-03,Roland Boutique JX-03,232.5,265.0,297.5,2,90,[1],2026-08-31
+Roland,MC-101,Roland MC-101,326.25,327.5,328.75,2,90,"[1, 7]",2026-08-31
+Roland,MC-707,Roland MC-707,675.0,700.0,725.0,2,90,[1],2026-08-31
+Roland,P-6,Roland P-6,115.0,130.0,140.0,3,90,"[1, 7]",2026-08-31
+Roland,SH-101,Roland SH-101,1531.25,1587.5,1643.75,2,90,"[1, 7]",2026-08-31
+Roland,SP-404MKII,Roland SP-404MKII,356.25,367.5,378.75,2,90,[1],2026-08-31
+Roland,SP404,Roland SP404,415.0,430.0,445.0,2,90,"[1, 7]",2026-08-31
+Roland,TR-6S,Roland TR-6S,272.5,275.0,277.5,2,90,[7],2026-08-31
+Roland,TR-8S,Roland TR-8S,500.0,500.0,500.0,2,90,[1],2026-08-31
+Roland,roland sp-404,Roland roland sp-404,287.5,325.0,362.5,2,90,"[1, 7]",2026-08-31
+Sequential,Prophet Rev2,Sequential Prophet Rev2,1699.25,1799.5,1899.75,2,90,[1],2026-08-31
+Sequential,Take 5,Sequential Take 5,962.5,975.0,1025.0,3,90,"[1, 7]",2026-08-31
+Waldorf,Blofeld Desktop,Waldorf Blofeld Desktop,282.5,285.0,287.5,2,90,"[1, 6]",2026-08-31
+Waldorf,Iridium,Waldorf Iridium,1500.0,1500.0,1500.0,3,90,[1],2026-08-31
+Yamaha,Reface CP,Yamaha Reface CP,280.0,310.0,330.0,3,90,"[1, 7]",2026-08-31
+Yamaha,Yamaha MODX M6,Yamaha Yamaha MODX M6,1062.5,1075.0,1087.5,2,90,[1],2026-08-31
