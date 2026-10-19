@@ -149,7 +149,7 @@ Akai,MPC Key 61,Akai MPC Key 61,3,3,2026-03-08,2026-03-22,0
 Akai,MPC LIVE II (RETRO EDITION),Akai MPC LIVE II (RETRO EDITION),0,0,,,0
 Akai,MPC Live,Akai MPC Live,9,9,2022-12-31,2026-06-08,0
 Akai,MPC Live (v1) - Estado,Akai MPC Live (v1) - Estado,1,1,2026-04-09,2026-04-09,0
-Akai,MPC Live II,Akai MPC Live II,2,2,2026-07-16,2026-07-31,1
+Akai,MPC Live II,Akai MPC Live II,2,2,2026-07-16,2026-07-31,0
 Akai,MPC Live MK2,Akai MPC Live MK2,0,0,,,0
 Akai,MPC ONE,Akai MPC ONE,5,5,2026-04-17,2026-06-22,0
 Akai,MPC One,Akai MPC One,8,8,2022-12-31,2026-03-28,0
@@ -233,6 +233,7 @@ Akai,akai mpk mini,Akai akai mpk mini,1,1,2026-09-30,2026-09-30,0
 Akai,akai sg01v,Akai akai sg01v,5,5,2023-06-04,2026-03-16,0
 Akai,decksaver akai force,Akai decksaver akai force,3,3,2023-06-04,2023-08-07,0
 Akai,force,Akai force,0,0,,,0
+Akai,maestro midi Akai MPK249,Akai maestro midi Akai MPK249,1,1,2026-10-14,2026-10-14,0
 Akai,manual akai xr20,Akai manual akai xr20,2,2,2022-12-31,2023-06-04,0
 Akai,"maschine mpc stuff live, mpd,","Akai maschine mpc stuff live, mpd,",0,0,,,0
 Akai,mpc 1000,Akai mpc 1000,1,1,2026-04-11,2026-04-11,0
@@ -370,6 +371,7 @@ Arturia,MIniLab 3 - MIDI (Καινούριο),Arturia MIniLab 3 - MIDI (Καιν
 Arturia,MatrixBrute,Arturia MatrixBrute,7,7,2023-03-01,2026-03-08,0
 Arturia,MatrixBrute Noir,Arturia MatrixBrute Noir,2,2,2026-06-21,2026-07-24,0
 Arturia,Matrixbrute Noir,Arturia Matrixbrute Noir,0,0,,,0
+Arturia,Mi OB-6,Arturia Mi OB-6,0,0,,,0
 Arturia,MicroBrute,Arturia MicroBrute,7,7,2023-03-01,2026-05-23,0
 Arturia,MicroBrute SE blue Analogsynthesizer,Arturia MicroBrute SE blue Analogsynthesizer,1,1,2026-04-22,2026-04-22,0
 Arturia,MicroBrute UFO,Arturia MicroBrute UFO,0,0,,,0
@@ -407,7 +409,7 @@ Arturia,Origin,Arturia Origin,1,1,2026-03-16,2026-03-16,0
 Arturia,POLYBRUTE,Arturia POLYBRUTE,3,3,2026-06-03,2026-07-17,0
 Arturia,Pigments (Traspaso,Arturia Pigments (Traspaso,1,1,2026-03-16,2026-03-16,0
 Arturia,PolyBrute,Arturia PolyBrute,6,6,2026-03-08,2026-04-25,0
-Arturia,PolyBrute 12,Arturia PolyBrute 12,0,0,,,0
+Arturia,PolyBrute 12,Arturia PolyBrute 12,1,0,2026-10-15,2026-10-15,0
 Arturia,PolyBrute 6,Arturia PolyBrute 6,0,0,,,0
 Arturia,PolyBrute Noir,Arturia PolyBrute Noir,0,0,,,0
 Arturia,Polybrure Analog Synth Arturia,Arturia Polybrure Analog Synth Arturia,1,1,2026-03-08,2026-03-08,0
@@ -449,7 +451,7 @@ Audio Damage,Quanta 2,Audio Damage Quanta 2,0,0,,,0
 Audio Damage,Rift,Audio Damage Rift,0,0,,,0
 Audiothingies,Doctor A,Audiothingies Doctor A,0,0,,,0
 Audiothingies,Mi Micromonsta 2,Audiothingies Mi Micromonsta 2,1,0,2026-04-22,2026-04-22,0
-Audiothingies,MicroMonsta,Audiothingies MicroMonsta,4,3,2026-05-11,2026-09-02,1
+Audiothingies,MicroMonsta,Audiothingies MicroMonsta,4,3,2026-05-11,2026-09-02,0
 Audiothingies,MicroMonsta 2,Audiothingies MicroMonsta 2,3,3,2026-03-08,2026-09-18,0
 Audiothingies,Micromonsta,Audiothingies Micromonsta,0,0,,,0
 Audiothingies,Micromonsta 2,Audiothingies Micromonsta 2,0,0,,,0
@@ -522,7 +524,7 @@ Behringer,Edge/Behringer Grind Bundle,Behringer Edge/Behringer Grind Bundle,1,1,
 Behringer,FCB1010 foot midi,Behringer FCB1010 foot midi,1,1,2026-05-20,2026-05-20,0
 Behringer,Grind,Behringer Grind,1,0,2026-03-23,2026-03-23,0
 Behringer,Halos,Behringer Halos,1,0,2026-06-28,2026-06-28,0
-Behringer,JN-80,Behringer JN-80,1,1,2026-09-21,2026-09-21,0
+Behringer,JN-80,Behringer JN-80,2,2,2026-09-21,2026-10-16,1
 Behringer,JT Mini,Behringer JT Mini,2,2,2026-05-24,2026-06-21,0
 Behringer,JT mini,Behringer JT mini,0,0,,,0
 Behringer,JT-4000M Micro,Behringer JT-4000M Micro,1,1,2026-04-11,2026-04-11,0
@@ -548,7 +550,8 @@ Behringer,Neutron,Behringer Neutron,0,0,,,0
 Behringer,Neutron Semi-modular analog synth,Behringer Neutron Semi-modular analog synth,1,1,2026-06-07,2026-06-07,0
 Behringer,Odyssey,Behringer Odyssey,2,2,2026-03-08,2026-03-08,0
 Behringer,PRO ONE,Behringer PRO ONE,2,2,2026-04-02,2026-06-28,0
-Behringer,PRO-800,Behringer PRO-800,2,2,2026-07-17,2026-09-11,1
+Behringer,PRO VS MINI,Behringer PRO VS MINI,1,1,2026-10-17,2026-10-17,0
+Behringer,PRO-800,Behringer PRO-800,2,2,2026-07-17,2026-09-11,0
 Behringer,Phara-O Mini,Behringer Phara-O Mini,0,0,,,0
 Behringer,Poly D,Behringer Poly D,1,1,2026-03-16,2026-03-16,0
 Behringer,Poly-D,Behringer Poly-D,1,1,2026-03-31,2026-03-31,0
@@ -734,6 +737,7 @@ Casio,HT-3000,Casio HT-3000,1,1,2026-04-08,2026-04-08,0
 Casio,HT-3000 61-Key,Casio HT-3000 61-Key,1,1,2026-08-10,2026-08-10,0
 Casio,HT-6000,Casio HT-6000,0,0,,,0
 Casio,HT-700,Casio HT-700,0,0,,,0
+Casio,LOTE Casio cdp S-160 (3,Casio LOTE Casio cdp S-160 (3,1,1,2026-10-15,2026-10-15,0
 Casio,MT 110,Casio MT 110,1,1,2026-03-08,2026-03-08,0
 Casio,MT-200,Casio MT-200,0,0,,,0
 Casio,MT-400,Casio MT-400,0,0,,,0
@@ -912,7 +916,7 @@ Dreadbox,Nyx 2,Dreadbox Nyx 2,0,0,,,0
 Dreadbox,Nyx RE,Dreadbox Nyx RE,1,1,2026-03-16,2026-03-16,0
 Dreadbox,Nyx Reissue,Dreadbox Nyx Reissue,1,1,2026-05-22,2026-05-22,0
 Dreadbox,RANDOM.,Dreadbox RANDOM.,1,1,2026-03-08,2026-03-08,0
-Dreadbox,Typhon,Dreadbox Typhon,12,12,2022-12-31,2026-08-28,1
+Dreadbox,Typhon,Dreadbox Typhon,13,13,2022-12-31,2026-10-14,1
 Dreadbox,Typhoon Δεκτες ανταλλαγές,Dreadbox Typhoon Δεκτες ανταλλαγές,1,1,2026-03-08,2026-03-08,0
 Dreadbox,Utopia CV Audio Manipulator,Dreadbox Utopia CV Audio Manipulator,1,1,2026-03-08,2026-03-08,0
 Dreadbox,dreadbox nostalgia,Dreadbox dreadbox nostalgia,1,1,2023-03-01,2023-03-01,0
@@ -1024,6 +1028,7 @@ Elektron,Digitone MKI,Elektron Digitone MKI,1,1,2026-06-03,2026-06-03,0
 Elektron,"Digitone, decksaver, bancos","Elektron Digitone, decksaver, bancos",1,1,2026-07-19,2026-07-19,0
 Elektron,Elecktron Octatrack Black. (Cambios),Elektron Elecktron Octatrack Black. (Cambios),0,0,,,0
 Elektron,Electrón Octatrack MKII - pack,Elektron Electrón Octatrack MKII - pack,1,1,2026-07-05,2026-07-05,0
+Elektron,Interfaz USB-MIDI Elektron TM-1,Elektron Interfaz USB-MIDI Elektron TM-1,1,1,2026-10-16,2026-10-16,0
 Elektron,Machinedrum MKII,Elektron Machinedrum MKII,1,1,2026-03-22,2026-03-22,0
 Elektron,Machinedrum SPS-1,Elektron Machinedrum SPS-1,4,4,2026-03-08,2026-03-27,0
 Elektron,Machinedrum SPS-1 MK1,Elektron Machinedrum SPS-1 MK1,0,0,,,0
@@ -1067,11 +1072,11 @@ Elektron,digitone,Elektron digitone,0,0,,,0
 Elektron,digitone 2,Elektron digitone 2,1,1,2026-04-18,2026-04-18,0
 Elektron,digitone 25 aniversario edición limitada,Elektron digitone 25 aniversario edición limitada,1,1,2026-07-04,2026-07-04,0
 Elektron,elektron analog rythm mki,Elektron elektron analog rythm mki,3,3,2023-06-04,2023-08-07,0
-Elektron,elektron analog rytm,Elektron elektron analog rytm,6,6,2023-03-01,2026-10-05,1
+Elektron,elektron analog rytm,Elektron elektron analog rytm,7,7,2023-03-01,2026-10-16,1
 Elektron,elektron análog four,Elektron elektron análog four,1,1,2022-12-31,2022-12-31,0
 Elektron,elektron four,Elektron elektron four,3,3,2023-06-04,2023-08-07,0
 Elektron,elektron machinedrum sps-i uw,Elektron elektron machinedrum sps-i uw,2,2,2023-06-07,2023-08-07,0
-Elektron,elektron model cycles,Elektron elektron model cycles,3,3,2022-12-31,2026-06-28,0
+Elektron,elektron model cycles,Elektron elektron model cycles,4,4,2022-12-31,2026-10-19,0
 Elektron,elektron sps-1 mk-i,Elektron elektron sps-1 mk-i,1,1,2022-12-31,2022-12-31,0
 Elektron,model samples,Elektron model samples,1,1,2026-08-10,2026-08-10,0
 Elektron,octatrack elektron octatrack mki,Elektron octatrack elektron octatrack mki,5,5,2022-12-31,2023-08-07,0
@@ -1085,6 +1090,7 @@ Endorphin.es,Endorphin Total Recall Silver,Endorphin.es Endorphin Total Recall S
 Endorphin.es,Evil Pet,Endorphin.es Evil Pet,1,1,2026-07-27,2026-07-27,0
 Endorphin.es,Furthrrrr Generator,Endorphin.es Furthrrrr Generator,1,1,2023-08-07,2023-08-07,0
 Endorphin.es,Ghost,Endorphin.es Ghost,1,1,2026-06-24,2026-06-24,0
+Endorphin.es,Shuttle Control,Endorphin.es Shuttle Control,1,1,2026-10-14,2026-10-14,0
 Endorphin.es,Shuttle System,Endorphin.es Shuttle System,1,1,2026-03-16,2026-03-16,0
 Endorphin.es,endorphin es - squawk dirty,Endorphin.es endorphin es - squawk dirty,3,3,2023-06-04,2023-08-07,0
 Endorphin.es,endorphin es queen of pentacles,Endorphin.es endorphin es queen of pentacles,1,1,2022-12-31,2022-12-31,0
@@ -1274,7 +1280,7 @@ Intellijel,METROPOLIX Solo - -,Intellijel METROPOLIX Solo - -,0,0,,,0
 Intellijel,Metropolis (leer descripción),Intellijel Metropolis (leer descripción),1,1,2026-04-20,2026-04-20,0
 Intellijel,Metropolix,Intellijel Metropolix,2,2,2026-05-20,2026-06-24,0
 Intellijel,Metropolix Solo (env. incl.),Intellijel Metropolix Solo (env. incl.),0,0,,,0
-Intellijel,Multigrain,Intellijel Multigrain,1,1,2026-04-18,2026-04-18,0
+Intellijel,Multigrain,Intellijel Multigrain,2,2,2026-04-18,2026-10-17,0
 Intellijel,Planar 2,Intellijel Planar 2,3,3,2023-06-04,2023-08-07,0
 Intellijel,Planar 2 Intellijel,Intellijel Planar 2 Intellijel,1,1,2026-06-28,2026-06-28,0
 Intellijel,Plonk,Intellijel Plonk,1,1,2026-10-03,2026-10-03,0
@@ -1388,6 +1394,7 @@ Korg,BX-3 Hammond Clon,Korg BX-3 Hammond Clon,0,0,,,0
 Korg,Behringer Odyssey,Korg Behringer Odyssey,2,2,2026-04-30,2026-07-24,0
 Korg,Busco Korg SQ-1,Korg Busco Korg SQ-1,1,0,2026-03-19,2026-03-19,0
 Korg,Busco Korg VC-10,Korg Busco Korg VC-10,1,0,2026-04-25,2026-04-25,0
+Korg,Busco Korg ms10,Korg Busco Korg ms10,1,0,2026-10-17,2026-10-17,0
 Korg,COMPRO!! Korg EXB-Radias Expansion Board,Korg COMPRO!! Korg EXB-Radias Expansion Board,1,0,2026-07-20,2026-07-20,0
 Korg,CX3 1980,Korg CX3 1980,1,1,2026-06-17,2026-06-17,0
 Korg,Chip sm304A Korg CX 3,Korg Chip sm304A Korg CX 3,0,0,,,0
@@ -1466,6 +1473,7 @@ Korg,KingKorg,Korg KingKorg,1,1,2026-05-23,2026-05-23,0
 Korg,Kingkorg Neo,Korg Kingkorg Neo,1,1,2026-03-08,2026-03-08,0
 Korg,Kit Korg Tritón LE/ TR,Korg Kit Korg Tritón LE/ TR,0,0,,,0
 Korg,Korg,Korg Korg,0,0,,,0
+Korg,Korg M1,Korg Korg M1,1,1,2026-10-14,2026-10-14,0
 Korg,Korg M3 61 (,Korg Korg M3 61 (,0,0,,,0
 Korg,Korg N5,Korg Korg N5,1,1,2026-08-22,2026-08-22,0
 Korg,Korg R3,Korg Korg R3,1,1,2026-09-07,2026-09-07,0
@@ -1537,15 +1545,17 @@ Korg,Microkorg,Korg Microkorg,3,3,2026-03-08,2026-04-27,0
 Korg,Microkorg 2,Korg Microkorg 2,1,1,2026-07-02,2026-07-02,0
 Korg,Microkorg crystal,Korg Microkorg crystal,1,1,2026-09-26,2026-09-26,0
 Korg,Minilogue,Korg Minilogue,11,11,2023-03-01,2026-07-01,0
-Korg,Minilogue XD,Korg Minilogue XD,8,8,2022-12-31,2026-07-18,0
+Korg,Minilogue XD,Korg Minilogue XD,10,9,2022-12-31,2026-10-19,0
 Korg,Minilogue XD Module,Korg Minilogue XD Module,1,1,2026-03-08,2026-03-08,0
 Korg,Minilogue XD inverted keys,Korg Minilogue XD inverted keys,2,1,2026-05-17,2026-05-17,0
 Korg,Minilogue og,Korg Minilogue og,1,1,2026-05-13,2026-05-13,0
+Korg,Minilogue xd,Korg Minilogue xd,0,0,,,0
 Korg,Modave Rack/,Korg Modave Rack/,1,1,2026-04-19,2026-04-19,0
 Korg,Modwave,Korg Modwave,0,0,,,0
 Korg,Modwave 37-Key Wavetable 2021,Korg Modwave 37-Key Wavetable 2021,0,0,,,0
-Korg,Modwave MKII,Korg Modwave MKII,0,0,,,0
+Korg,Modwave MKII,Korg Modwave MKII,1,1,2026-10-14,2026-10-14,0
 Korg,Modwave Module,Korg Modwave Module,0,0,,,0
+Korg,Modwave mkII ( ) Envío,Korg Modwave mkII ( ) Envío,0,0,,,0
 Korg,Mono/Poly,Korg Mono/Poly,0,0,,,0
 Korg,MonoPoly,Korg MonoPoly,0,0,,,0
 Korg,Monologue (Gris),Korg Monologue (Gris),0,0,,,0
@@ -1609,7 +1619,7 @@ Korg,PA600,Korg PA600,3,3,2026-03-08,2026-03-16,0
 Korg,PA700,Korg PA700,1,1,2026-03-08,2026-03-08,0
 Korg,PA800,Korg PA800,3,3,2026-03-08,2026-03-08,0
 Korg,PA900,Korg PA900,1,1,2026-05-20,2026-05-20,0
-Korg,PROLOGUE 16,Korg PROLOGUE 16,5,5,2026-03-08,2026-08-19,1
+Korg,PROLOGUE 16,Korg PROLOGUE 16,5,5,2026-03-08,2026-08-19,0
 Korg,PROTEUS Card-KORG DSS1 Editor-AKAI Discs,Korg PROTEUS Card-KORG DSS1 Editor-AKAI Discs,1,1,2026-03-08,2026-03-08,0
 Korg,PS-3100,Korg PS-3100,0,0,,,0
 Korg,PS-3200,Korg PS-3200,0,0,,,0
@@ -1650,7 +1660,7 @@ Korg,Prologue 8,Korg Prologue 8,1,1,2026-07-12,2026-07-12,0
 Korg,Prophecy,Korg Prophecy,1,1,2026-03-08,2026-03-08,0
 Korg,R3,Korg R3,0,0,,,0
 Korg,R3 /Vocoder,Korg R3 /Vocoder,0,0,,,0
-Korg,RADIAS,Korg RADIAS,10,10,2026-03-08,2026-07-24,1
+Korg,RADIAS,Korg RADIAS,10,10,2026-03-08,2026-07-24,0
 Korg,RK-100S,Korg RK-100S,0,0,,,0
 Korg,RK-100S 2,Korg RK-100S 2,0,0,,,0
 Korg,RK-100S 2 Black,Korg RK-100S 2 Black,0,0,,,0
@@ -1716,14 +1726,16 @@ Korg,Triton TR,Korg Triton TR,0,0,,,0
 Korg,Triton pro 76,Korg Triton pro 76,1,1,2026-06-12,2026-06-12,0
 Korg,Triton-Rack,Korg Triton-Rack,1,1,2026-08-24,2026-08-24,0
 Korg,Tritón Scsi,Korg Tritón Scsi,1,1,2026-03-16,2026-03-16,0
+Korg,Tritón placa base,Korg Tritón placa base,1,0,2026-10-15,2026-10-15,0
 Korg,USB MUSICORAMA ULTIMATE STYLE SET,Korg USB MUSICORAMA ULTIMATE STYLE SET,0,0,,,0
 Korg,VOLCA BEATS,Korg VOLCA BEATS,1,1,2026-06-22,2026-06-22,0
-Korg,VOLCA DRUM,Korg VOLCA DRUM,4,3,2026-05-04,2026-07-29,1
+Korg,VOLCA DRUM,Korg VOLCA DRUM,4,3,2026-05-04,2026-07-29,0
 Korg,VOLCA KEYS,Korg VOLCA KEYS,3,3,2026-05-10,2026-08-03,0
 Korg,VOLCA KICK,Korg VOLCA KICK,1,1,2026-09-03,2026-09-03,0
 Korg,VOLCA SAMPLE,Korg VOLCA SAMPLE,1,1,2026-03-08,2026-03-08,0
 Korg,Vendo Korg MS-20 mini,Korg Vendo Korg MS-20 mini,1,1,2026-08-08,2026-08-08,0
 Korg,Vendo Korg MS2000 BR,Korg Vendo Korg MS2000 BR,1,1,2026-06-18,2026-06-18,0
+Korg,Vendo Korg Wavestation EX,Korg Vendo Korg Wavestation EX,1,1,2026-10-14,2026-10-14,0
 Korg,Vendo korg pa300,Korg Vendo korg pa300,1,1,2026-03-08,2026-03-08,0
 Korg,Vintage KORG Mini Pops 120,Korg Vintage KORG Mini Pops 120,1,1,2026-07-02,2026-07-02,0
 Korg,Volca 1,Korg Volca 1,1,1,2026-03-08,2026-03-08,0
@@ -1754,6 +1766,7 @@ Korg,Wavestate SE,Korg Wavestate SE,2,2,2026-03-08,2026-03-16,0
 Korg,Wavestation,Korg Wavestation,3,3,2023-08-07,2026-03-23,0
 Korg,Wavestation A/D,Korg Wavestation A/D,2,2,2026-03-08,2026-03-16,0
 Korg,Wavestation EX,Korg Wavestation EX,2,2,2023-03-01,2026-04-02,0
+Korg,Workstation Korg Nautilus 88,Korg Workstation Korg Nautilus 88,1,1,2026-10-14,2026-10-14,0
 Korg,X3,Korg X3,0,0,,,0
 Korg,X3 Workstation (Vintage-1993) Made in,Korg X3 Workstation (Vintage-1993) Made in,1,1,2026-06-28,2026-06-28,0
 Korg,X50,Korg X50,0,0,,,0
@@ -1983,6 +1996,7 @@ M-Audio,Keystation Mini 32,M-Audio Keystation Mini 32,0,0,,,0
 M-Audio,M Audio Code 61,M-Audio M Audio Code 61,1,1,2026-03-08,2026-03-08,0
 M-Audio,M audio axiom,M-Audio M audio axiom,1,1,2026-03-16,2026-03-16,0
 M-Audio,M audio midi oxygen 25,M-Audio M audio midi oxygen 25,0,0,,,0
+M-Audio,M- audio oxygen 8,M-Audio M- audio oxygen 8,1,1,2026-10-14,2026-10-14,0
 M-Audio,MAUDIO KEYSTATION PRO88,M-Audio MAUDIO KEYSTATION PRO88,1,1,2026-03-08,2026-03-08,0
 M-Audio,MIDI M-Audio Keystation 49,M-Audio MIDI M-Audio Keystation 49,0,0,,,0
 M-Audio,Midi M-Audio Keystation 88 es,M-Audio Midi M-Audio Keystation 88 es,0,0,,,0
@@ -2249,7 +2263,7 @@ Native Instruments,Komplete Kontrol S49,Native Instruments Komplete Kontrol S49,
 Native Instruments,Komplete Kontrol S61,Native Instruments Komplete Kontrol S61,3,3,2023-03-01,2026-07-13,0
 Native Instruments,Komplete Kontrol S61 MK2,Native Instruments Komplete Kontrol S61 MK2,5,5,2022-12-31,2026-03-07,0
 Native Instruments,Komplete Kontrol S88,Native Instruments Komplete Kontrol S88,1,1,2026-04-26,2026-04-26,0
-Native Instruments,Komplete Kontrol S88 MK2,Native Instruments Komplete Kontrol S88 MK2,4,4,2026-03-08,2026-09-09,0
+Native Instruments,Komplete Kontrol S88 MK2,Native Instruments Komplete Kontrol S88 MK2,5,5,2026-03-08,2026-10-16,1
 Native Instruments,Komplete Kontrol S88 MKI,Native Instruments Komplete Kontrol S88 MKI,0,0,,,0
 Native Instruments,Komplete Kontrol a49,Native Instruments Komplete Kontrol a49,0,0,,,0
 Native Instruments,Kontrol 61,Native Instruments Kontrol 61,1,1,2026-05-29,2026-05-29,0
@@ -2278,6 +2292,7 @@ Native Instruments,S88 MkII,Native Instruments S88 MkII,1,1,2026-03-30,2026-03-3
 Native Instruments,ΕΞΟΠΛΙΣΜΟΣ NATIVE INSTRUMENTS,Native Instruments ΕΞΟΠΛΙΣΜΟΣ NATIVE INSTRUMENTS,1,1,2026-03-23,2026-03-23,0
 Noise Engineering,BIA,Noise Engineering BIA,1,1,2026-05-21,2026-05-21,0
 Noise Engineering,Basimilus Iteritas Alter,Noise Engineering Basimilus Iteritas Alter,4,3,2022-12-31,2026-07-16,0
+Noise Engineering,Basimilus Iteritas Alter Black,Noise Engineering Basimilus Iteritas Alter Black,1,1,2026-10-14,2026-10-14,0
 Noise Engineering,Cursus Iteritas,Noise Engineering Cursus Iteritas,1,1,2026-06-28,2026-06-28,0
 Noise Engineering,Cursus Iteritas Wavetable Oscillator,Noise Engineering Cursus Iteritas Wavetable Oscillator,1,1,2026-04-18,2026-04-18,0
 Noise Engineering,Loquelic Iteritas,Noise Engineering Loquelic Iteritas,1,1,2026-05-21,2026-05-21,0
@@ -2433,9 +2448,10 @@ Novation,Launchkey Mini,Novation Launchkey Mini,1,1,2026-08-06,2026-08-06,0
 Novation,Launchkey mini 25,Novation Launchkey mini 25,1,1,2026-08-05,2026-08-05,0
 Novation,Launchpad,Novation Launchpad,1,1,2026-03-08,2026-03-08,0
 Novation,Launchpad Mini,Novation Launchpad Mini,2,2,2026-03-08,2026-03-08,0
-Novation,Launchpad Pro,Novation Launchpad Pro,5,5,2026-03-08,2026-10-12,0
+Novation,Launchpad Pro,Novation Launchpad Pro,6,6,2026-03-08,2026-10-15,0
 Novation,Launchpad Pro - Καινουριο,Novation Launchpad Pro - Καινουριο,0,0,,,0
 Novation,Launchpad Pro MK-3,Novation Launchpad Pro MK-3,1,1,2026-05-17,2026-05-17,0
+Novation,Launchpad Pro mkii,Novation Launchpad Pro mkii,0,0,,,0
 Novation,Launchpad X,Novation Launchpad X,2,2,2026-03-08,2026-03-08,0
 Novation,Launchpad pro,Novation Launchpad pro,0,0,,,0
 Novation,Manual original,Novation Manual original,1,1,2026-09-07,2026-09-07,0
@@ -2534,7 +2550,7 @@ Playtime Engineering,Blipblox After Dark,Playtime Engineering Blipblox After Dar
 Playtime Engineering,Blipblox SK2,Playtime Engineering Blipblox SK2,0,0,,,0
 Playtime Engineering,Blipblox myTRACKS,Playtime Engineering Blipblox myTRACKS,0,0,,,0
 Polyend,Medusa,Polyend Medusa,0,0,,,0
-Polyend,PLAY,Polyend PLAY,5,4,2026-04-08,2026-09-02,1
+Polyend,PLAY,Polyend PLAY,5,4,2026-04-08,2026-09-02,0
 Polyend,Play,Polyend Play,3,3,2026-03-07,2026-03-08,0
 Polyend,Play+,Polyend Play+,0,0,,,0
 Polyend,Poly 2,Polyend Poly 2,0,0,,,0
@@ -2568,6 +2584,7 @@ Roland,AE-10 Aerophone Wind Instrument USB,Roland AE-10 Aerophone Wind Instrumen
 Roland,AIRA Compact J-6 Chord Synth,Roland AIRA Compact J-6 Chord Synth,1,1,2026-06-28,2026-06-28,0
 Roland,AIRA Compact P-6 Sampler,Roland AIRA Compact P-6 Sampler,0,0,,,0
 Roland,AIRA Compact S-1 Tweak Synth,Roland AIRA Compact S-1 Tweak Synth,0,0,,,0
+Roland,AIRA Compact T-8,Roland AIRA Compact T-8,1,1,2026-10-18,2026-10-18,0
 Roland,AIRA Compact T-8 Beat Machine,Roland AIRA Compact T-8 Beat Machine,0,0,,,0
 Roland,AIRA P-6 – / A,Roland AIRA P-6 – / A,1,1,2026-04-05,2026-04-05,0
 Roland,AIRA S-1,Roland AIRA S-1,1,1,2026-05-20,2026-05-20,0
@@ -2592,7 +2609,7 @@ Roland,Bitrazer,Roland Bitrazer,1,1,2026-03-16,2026-03-16,0
 Roland,Boitique A-01,Roland Boitique A-01,1,1,2026-03-16,2026-03-16,0
 Roland,Bolsa,Roland Bolsa,1,1,2026-06-17,2026-06-17,0
 Roland,Boutique,Roland Boutique,1,1,2026-03-08,2026-03-08,0
-Roland,Boutique JX-03,Roland Boutique JX-03,2,2,2026-07-20,2026-08-24,1
+Roland,Boutique JX-03,Roland Boutique JX-03,2,2,2026-07-20,2026-08-24,0
 Roland,Busco Roland Fantom X,Roland Busco Roland Fantom X,1,0,2026-09-30,2026-09-30,0
 Roland,CA-30 Intelligent Arranger,Roland CA-30 Intelligent Arranger,1,1,2026-03-08,2026-03-08,0
 Roland,CM 32P,Roland CM 32P,1,1,2026-06-24,2026-06-24,0
@@ -2825,6 +2842,7 @@ Roland,RD 2000 EX,Roland RD 2000 EX,1,1,2026-09-16,2026-09-16,0
 Roland,RD-08,Roland RD-08,1,1,2026-03-19,2026-03-19,0
 Roland,RD-300SX Stage Piano,Roland RD-300SX Stage Piano,1,1,2026-03-23,2026-03-23,0
 Roland,RD-700 SX Stage Piano,Roland RD-700 SX Stage Piano,1,1,2026-03-23,2026-03-23,0
+Roland,RD200,Roland RD200,1,0,2026-10-14,2026-10-14,0
 Roland,RD2000,Roland RD2000,1,1,2026-06-21,2026-06-21,0
 Roland,RD700 SX,Roland RD700 SX,2,2,2026-04-12,2026-09-18,0
 Roland,RD700nx,Roland RD700nx,1,1,2026-03-16,2026-03-16,0
@@ -2837,6 +2855,7 @@ Roland,RS-09,Roland RS-09,0,0,,,0
 Roland,RS-5 (61 Keys),Roland RS-5 (61 Keys),1,1,2026-08-05,2026-08-05,0
 Roland,RS-505,Roland RS-505,4,4,2023-06-04,2026-03-08,0
 Roland,Repuesto,Roland Repuesto,1,1,2026-09-20,2026-09-20,0
+Roland,Roland A-30 MIDI KEY BOARD,Roland Roland A-30 MIDI KEY BOARD,1,1,2026-10-18,2026-10-18,0
 Roland,Roland Bass & Drums M-BD1,Roland Roland Bass & Drums M-BD1,1,1,2026-10-07,2026-10-07,0
 Roland,Roland D-50,Roland Roland D-50,1,1,2026-07-29,2026-07-29,0
 Roland,Roland JD Xi,Roland Roland JD Xi,2,2,2026-03-16,2026-03-28,0
@@ -2889,7 +2908,7 @@ Roland,SP 555. ΕΥΚΑΙΡΙΑ!,Roland SP 555. ΕΥΚΑΙΡΙΑ!,1,1,2026-03-08
 Roland,SP-202 BOSS ROLAND,Roland SP-202 BOSS ROLAND,1,1,2026-06-22,2026-06-22,0
 Roland,SP-404,Roland SP-404,0,0,,,0
 Roland,SP-404A Linear Wave,Roland SP-404A Linear Wave,1,1,2026-04-19,2026-04-19,0
-Roland,SP-404MKII,Roland SP-404MKII,3,3,2026-03-08,2026-07-06,0
+Roland,SP-404MKII,Roland SP-404MKII,4,4,2026-03-08,2026-10-16,0
 Roland,SP-404MkII,Roland SP-404MkII,0,0,,,0
 Roland,SP404,Roland SP404,4,4,2026-03-08,2026-06-15,0
 Roland,SP404 MKII (Καινούριο),Roland SP404 MKII (Καινούριο),0,0,,,0
@@ -2931,9 +2950,10 @@ Roland,TN-SC1-03 & TN-SC1-09,Roland TN-SC1-03 & TN-SC1-09,1,1,2026-03-08,2026-03
 Roland,TR 08 Boutique,Roland TR 08 Boutique,1,1,2026-03-08,2026-03-08,0
 Roland,TR 606 Drumatix,Roland TR 606 Drumatix,1,1,2026-03-16,2026-03-16,0
 Roland,TR 707 original,Roland TR 707 original,1,1,2026-03-16,2026-03-16,0
+Roland,TR 8S,Roland TR 8S,1,1,2026-10-18,2026-10-18,0
 Roland,TR 909 Rhythm Composer,Roland TR 909 Rhythm Composer,1,1,2026-07-03,2026-07-03,0
 Roland,TR-06 - Como,Roland TR-06 - Como,1,1,2026-03-31,2026-03-31,0
-Roland,TR-08,Roland TR-08,5,5,2026-03-08,2026-03-28,0
+Roland,TR-08,Roland TR-08,6,6,2026-03-08,2026-10-18,0
 Roland,TR-09,Roland TR-09,2,2,2022-12-31,2026-07-20,0
 Roland,TR-1000,Roland TR-1000,1,0,2026-03-16,2026-03-16,0
 Roland,"TR-505, Made in Japan 1986","Roland TR-505, Made in Japan 1986",1,1,2026-03-16,2026-03-16,0
@@ -2957,6 +2977,7 @@ Roland,TR8 7x7 expansión,Roland TR8 7x7 expansión,1,1,2026-05-04,2026-05-04,0
 Roland,TR8-S FOR SALE,Roland TR8-S FOR SALE,1,1,2026-06-17,2026-06-17,0
 Roland,TR8S,Roland TR8S,0,0,,,0
 Roland,TR909,Roland TR909,1,1,2026-07-18,2026-07-18,0
+Roland,Tarjeta Roland SN-R8-09 POWER DRUMS,Roland Tarjeta Roland SN-R8-09 POWER DRUMS,1,1,2026-10-19,2026-10-19,0
 Roland,Tarjeta SN-R8-10 Dance,Roland Tarjeta SN-R8-10 Dance,1,1,2026-09-04,2026-09-04,0
 Roland,Tarjetas expansión Roland SR-JV8O.,Roland Tarjetas expansión Roland SR-JV8O.,1,0,2026-06-01,2026-06-01,0
 Roland,Td 3 analogue synth tb303,Roland Td 3 analogue synth tb303,1,1,2026-05-28,2026-05-28,0
@@ -3019,6 +3040,7 @@ Roland,batería roland r-8m,Roland batería roland r-8m,4,4,2022-12-31,2023-08-0
 Roland,behringer wasp roland tb,Roland behringer wasp roland tb,1,1,2023-08-07,2023-08-07,0
 Roland,bk7m,Roland bk7m,0,0,,,0
 Roland,boutique 3d waves stand,Roland boutique 3d waves stand,1,1,2026-03-08,2026-03-08,0
+Roland,boutique Jp 08,Roland boutique Jp 08,1,1,2026-10-14,2026-10-14,0
 Roland,boutique jx 03,Roland boutique jx 03,1,1,2026-04-02,2026-04-02,0
 Roland,case roland !!,Roland case roland !!,3,3,2023-06-04,2023-08-07,0
 Roland,"casio varios sintes, expanders, etc","Roland casio varios sintes, expanders, etc",1,1,2023-06-04,2023-06-04,0
@@ -3698,6 +3720,7 @@ Yamaha,MX88,Yamaha MX88,5,5,2023-06-04,2026-04-02,0
 Yamaha,MX88 88 πλήκτρων,Yamaha MX88 88 πλήκτρων,1,1,2026-04-18,2026-04-18,0
 Yamaha,Modx 6,Yamaha Modx 6,1,1,2026-04-24,2026-04-24,0
 Yamaha,Modx M6,Yamaha Modx M6,0,0,,,0
+Yamaha,ModxM 61,Yamaha ModxM 61,1,1,2026-10-19,2026-10-19,0
 Yamaha,Montage 6,Yamaha Montage 6,0,0,,,0
 Yamaha,Montage 7,Yamaha Montage 7,6,6,2023-06-07,2026-10-12,0
 Yamaha,Montage 8,Yamaha Montage 8,6,6,2023-03-01,2026-04-18,0
@@ -3867,9 +3890,10 @@ Yamaha,VL1,Yamaha VL1,0,0,,,0
 Yamaha,VP1,Yamaha VP1,0,0,,,0
 Yamaha,Vendo /Cambio Yamaha Sk 15,Yamaha Vendo /Cambio Yamaha Sk 15,1,1,2026-03-16,2026-03-16,0
 Yamaha,Vendo /MIDI YAMAHA DJX -PSR,Yamaha Vendo /MIDI YAMAHA DJX -PSR,0,0,,,0
+Yamaha,Vendo Yamaha V50,Yamaha Vendo Yamaha V50,0,0,,,0
 Yamaha,WX5 a estrenar,Yamaha WX5 a estrenar,1,1,2026-05-20,2026-05-20,0
 Yamaha,Workstation Yamaha SX-700,Yamaha Workstation Yamaha SX-700,1,1,2026-09-02,2026-09-02,0
-Yamaha,YAMAHA,Yamaha YAMAHA,117,116,2022-12-31,2026-10-10,0
+Yamaha,YAMAHA,Yamaha YAMAHA,121,120,2022-12-31,2026-10-19,0
 Yamaha,YAMAHA CS15D αναλογικό,Yamaha YAMAHA CS15D αναλογικό,1,1,2026-03-08,2026-03-08,0
 Yamaha,YAMAHA YS 200,Yamaha YAMAHA YS 200,1,1,2026-03-08,2026-03-08,0
 Yamaha,YC 73,Yamaha YC 73,0,0,,,0
